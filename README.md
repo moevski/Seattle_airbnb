@@ -21,7 +21,7 @@ Second, I built linear regression model to predict the price based on selected f
 
 Third, I used sentiment analysis model to analyize comments but I failed to find a coorelation between positive comments and unit availability, finally I developed wordcloud model to display the most frequently used works in positive comments and displayed these words
 
-The main findings of the code can be found at the post available [here](https://medium.com/@ericvenarusso2/what-are-the-most-common-programming-languages-used-in-brazil-8d630b76df2f)</br>
+The main findings of the code can be found at the post available [here](https://moevski.medium.com/top-factors-affecting-pricing-strategy-on-airbnb-in-seattle-4196ad16b50f)</br>
 
 ## Files Description
 **listings.csv:** original dataset including full descriptions and average review score 
